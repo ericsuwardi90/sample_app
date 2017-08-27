@@ -38,4 +38,10 @@ $ rails server
 ```
 
 For more information, see the
-[*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
+[*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book
+
+## Branch Information based on chapter in book
+
+Currently the branch in this repo is following like this :
+- chapter 3 -> static-pages
+- chapter 4 -> rails-flavored-ruby
