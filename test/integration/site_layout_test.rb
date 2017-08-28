@@ -14,5 +14,8 @@ class SiteLayoutTest < ActionDispatch::IntegrationTest
 
     get contact_path
     assert_select "title", full_title("Contact")
+
+    get home_path
+    assert_select "a[href=?]", signup_path
   end
 end
