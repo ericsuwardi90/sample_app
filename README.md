@@ -47,3 +47,4 @@ Currently the branch in this repo is following like this :
 - chapter 4 -> rails-flavored-ruby
 - chapter 5 -> filling-in-layout
 - chapter 6 -> modeling-users
+- chapter 7 -> sign-up
