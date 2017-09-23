@@ -50,3 +50,4 @@ Currently the branch in this repo is following like this :
 - chapter 7 -> sign-up
 - chapter 8 -> basic-login
 - chapter 9 -> advanced-login
+- chapter 10 -> updating-users
